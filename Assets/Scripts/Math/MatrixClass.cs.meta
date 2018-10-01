@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: d0172ab44375ca24887f3f309a39d7d5
+timeCreated: 1469711805
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - zero: {fileID: 114646, guid: 0b32c6ae46ece6141bc9131db5e0a59e, type: 2}
+  - one: {fileID: 187026, guid: ce50e489862ee894faa7e043cd1b0512, type: 2}
+  - two: {fileID: 136716, guid: b36bac7a3ec74a1429dc8546b5688264, type: 2}
+  - three: {fileID: 137644, guid: b2d397a4ccab5d845a11a3bcbab9c440, type: 2}
+  - four: {fileID: 123158, guid: 903ac8a5078b207449367a79e879e1c6, type: 2}
+  - five: {fileID: 144126, guid: 009b886ff19c5ef40b44e100b13494d1, type: 2}
+  - six: {fileID: 178374, guid: eddd6bb3c7e30524c8ec066d94d8180a, type: 2}
+  - seven: {fileID: 106608, guid: 5611474f9ed01c144bb25ea030626fdb, type: 2}
+  - eight: {fileID: 152360, guid: 398345cf56f91c54087b9ab8d06307cd, type: 2}
+  - nine: {fileID: 139678, guid: 0b9bf7ae35acaf44388a77b1544ffe95, type: 2}
+  - minus: {fileID: 1000011452832912, guid: 467be77eba7ce624a8530bcbe4fe55ea, type: 2}
+  - dot: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
